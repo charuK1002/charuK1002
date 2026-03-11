@@ -106,20 +106,21 @@
 
 ---
 
-<h2 align="center">🚀 My Projects</h2>
+
+<h2 align="center">📒 My Project Notebook</h2>
 
 <br>
 
-<div align="center">
+<table align="center">
+<tr>
 
-<!-- PROJECT 1 -->
-
-<div style="background:#FFF0F6;padding:25px;border-radius:18px;width:80%;box-shadow:0px 10px 25px rgba(0,0,0,0.08);margin-bottom:30px;transition:0.3s;">
+<td width="450">
 
 <h3>🧠 Enterprise Knowledge Intelligence Platform</h3>
 
 <p>
-A platform designed to <b>store, organize, and retrieve enterprise knowledge efficiently</b>, enabling teams to quickly access, manage, and share important documents across the organization.
+A platform designed to <b>store, organize and retrieve enterprise knowledge efficiently</b>.  
+It helps teams manage documents, search information quickly and centralize company knowledge.
 </p>
 
 <br>
@@ -128,35 +129,34 @@ A platform designed to <b>store, organize, and retrieve enterprise knowledge eff
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML-FADADD?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-FFC0CB?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=black">
-<img src="https://img.shields.io/badge/Flask-F8C8DC?style=for-the-badge&logo=flask&logoColor=black">
-<img src="https://img.shields.io/badge/SQLite-FFB6C1?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/PyMuPDF-FDDDE6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Git-FFB7CE?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-F4C2C2?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/HTML-FADADD?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-FFC0CB?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD1DC?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-F8C8DC?style=flat-square&logo=flask&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQLite-FFB6C1?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyMuPDF-FDDDE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-FFB7CE?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-F4C2C2?style=flat-square&logo=github&logoColor=black"/>
 
 <br><br>
 
 <a href="https://github.com/charuK1002/Enterprise_Knowledge_Intelligence_Platform">
-<img src="https://img.shields.io/badge/View%20Repository-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+📂 Repository
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Live%20Demo-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+<br>
 
-</div>
+🌐 Live Demo: Coming Soon
 
-<!-- PROJECT 2 -->
+</td>
 
-<div style="background:#F0F9FF;padding:25px;border-radius:18px;width:80%;box-shadow:0px 10px 25px rgba(0,0,0,0.08);transition:0.3s;">
+<td width="450">
 
 <h3>💬 Interactive Sentiment Analysis System</h3>
 
 <p>
-An interactive web application that analyzes user input text and predicts <b>sentiment (Positive, Negative, Neutral)</b> using modern Natural Language Processing models.
+An interactive web application that analyzes user input text and predicts  
+<b>Positive, Negative or Neutral sentiment</b> using NLP models.
 </p>
 
 <br>
@@ -165,29 +165,33 @@ An interactive web application that analyzes user input text and predicts <b>sen
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-FFE4E1?style=for-the-badge&logo=python&logoColor=black">
-<img src="https://img.shields.io/badge/Flask-FFD1DC?style=for-the-badge&logo=flask&logoColor=black">
-<img src="https://img.shields.io/badge/HTML-FADADD?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-FFC0CB?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-FFE4F2?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HuggingFace-FDE2FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/NLP-FFD6EC?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-FFE4E1?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-FFD1DC?style=flat-square&logo=flask&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-FADADD?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-FFC0CB?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FFE4F2?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HuggingFace-FDE2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-FFD6EC?style=flat-square"/>
 
 <br><br>
 
 <a href="https://github.com/charuK1002/interactive-sentiment">
-<img src="https://img.shields.io/badge/View%20Repository-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+📂 Repository
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Live%20Demo-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+<br>
 
-</div>
+🌐 Live Demo: Coming Soon
 
-</div>
+</td>
+
+</tr>
+</table>
+
+
 
 ---
+
 
 # 💼 Portfolio
 
