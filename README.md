@@ -75,16 +75,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charuK1002&theme=rose"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
